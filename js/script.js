@@ -12,21 +12,20 @@ async function getJSON(url) {
 
 // read in all the info
 async function ParseJSONs() {
-
     // Items
-    var json_items = await getJSON('./json/items.json');
+    var json_items = await getJSON('https://wxiwxiwxi.github.io/AuctionCalculator/json/items.json');
     itemsList = json_items.item;
 
     // persons
-    var json_persons = await getJSON('./json/persons.json');
+    var json_persons = await getJSON('https://wxiwxiwxi.github.io/AuctionCalculator/json/persons.json');
     personsList = json_persons.person;
 
     // labels
-    var json_labels = await getJSON('./json/label.json');
+    var json_labels = await getJSON('https://wxiwxiwxi.github.io/AuctionCalculator/json/label.json');
     labelsList = json_labels.label;
 
     // Languages
-    var json_languages = await getJSON('./json/languages.json');
+    var json_languages = await getJSON('https://wxiwxiwxi.github.io/AuctionCalculator/json/languages.json');
     languagesList = json_languages.language;
 
     // sort languages
@@ -170,6 +169,16 @@ function fillPositions() {
     selectPerson2.selectedIndex = 1;
 
     UpdateQuantityOfSelectedItem();
+}
+
+// toggle dark mode
+function toggleTheme() {
+    if (document.documentElement.getAttribute('data-bs-theme') == 'dark') {
+        document.documentElement.setAttribute('data-bs-theme','light')
+    }
+    else {
+        document.documentElement.setAttribute('data-bs-theme','dark')
+    }
 }
 
 // return the label text in the right language
