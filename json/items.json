@@ -1,0 +1,1732 @@
+{
+    "item":[
+    {
+        "localizedNames":[
+            {
+                "name": "Adamant Orb",
+                "language_ID": "en"
+            },
+            {
+                "name": "Adamant - Orb",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 500,
+        "basePrice": 4000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Adamant Crystal",
+                "language_ID": "en"
+            },
+            {
+                "name": "Adamantkristall",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 500,
+        "basePrice": 4000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Lustrous Orb",
+                "language_ID": "en"
+            },
+            {
+                "name": "Weiß-Orb",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 500,
+        "basePrice": 4000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Lustrous Globe",
+                "language_ID": "en"
+            },
+            {
+                "name": "Weißkristall",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 500,
+        "basePrice": 4000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Griseous Orb",
+                "language_ID": "en"
+            },
+            {
+                "name": "Platinum-Orb",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 500,
+        "basePrice": 4000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Griseous Core",
+                "language_ID": "en"
+            },
+            {
+                "name": "Platinumkristall",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 500,
+        "basePrice": 4000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Flame Plate",
+                "language_ID": "en"
+            },
+            {
+                "name": "Feuertafel",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 500,
+        "basePrice": 4000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Splash Plate",
+                "language_ID": "en"
+            },
+            {
+                "name": "Wassertafel",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 500,
+        "basePrice": 4000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Zap Plate",
+                "language_ID": "en"
+            },
+            {
+                "name": "Blitztafel",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 500,
+        "basePrice": 4000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Meadow Plate",
+                "language_ID": "en"
+            },
+            {
+                "name": "Wiesentafel",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 500,
+        "basePrice": 4000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Icicle Plate",
+                "language_ID": "en"
+            },
+            {
+                "name": "Frosttafel",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 500,
+        "basePrice": 4000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Fist Plate",
+                "language_ID": "en"
+            },
+            {
+                "name": "Fausttafel",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 500,
+        "basePrice": 4000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Toxic Plate",
+                "language_ID": "en"
+            },
+            {
+                "name": "Gifttafel",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 500,
+        "basePrice": 4000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Earth Plate",
+                "language_ID": "en"
+            },
+            {
+                "name": "Erdtafel",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 500,
+        "basePrice": 4000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Sky Plate",
+                "language_ID": "en"
+            },
+            {
+                "name": "Wolkentafel",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 500,
+        "basePrice": 4000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Mind Plate",
+                "language_ID": "en"
+            },
+            {
+                "name": "Hirntafel",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 500,
+        "basePrice": 4000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Insect Plate",
+                "language_ID": "en"
+            },
+            {
+                "name": "Käfertafel",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 500,
+        "basePrice": 4000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Stone Plate",
+                "language_ID": "en"
+            },
+            {
+                "name": "Steintafel",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 500,
+        "basePrice": 4000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Spooky Plate",
+                "language_ID": "en"
+            },
+            {
+                "name": "Spuktafel",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 500,
+        "basePrice": 4000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Draco Plate",
+                "language_ID": "en"
+            },
+            {
+                "name": "Dracotafel",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 500,
+        "basePrice": 4000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Dread Plate",
+                "language_ID": "en"
+            },
+            {
+                "name": "Furchttafel",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 500,
+        "basePrice": 4000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Iron Plate",
+                "language_ID": "en"
+            },
+            {
+                "name": "Eisentafel",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 500,
+        "basePrice": 4000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Pixie Plate",
+                "language_ID": "en"
+            },
+            {
+                "name": "Feentafel",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 500,
+        "basePrice": 4000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Reveal Glass",
+                "language_ID": "en"
+            },
+            {
+                "name": "Wahrspiegel",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 500,
+        "basePrice": 4000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Prison Bottle",
+                "language_ID": "en"
+            },
+            {
+                "name": "Banngefäß",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 500,
+        "basePrice": 4000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Rusted Sword",
+                "language_ID": "en"
+            },
+            {
+                "name": "Rostiges Schwert",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 500,
+        "basePrice": 4000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Rusted Shield",
+                "language_ID": "en"
+            },
+            {
+                "name": "Rostiger Schild",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 500,
+        "basePrice": 4000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Scroll of Darkness",
+                "language_ID": "en"
+            },
+            {
+                "name": "Unlicht-Schriftrolle",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 500,
+        "basePrice": 4000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Scroll of Waters",
+                "language_ID": "en"
+            },
+            {
+                "name": "Wasser-Schriftrolle",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 500,
+        "basePrice": 4000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Reins of Unity",
+                "language_ID": "en"
+            },
+            {
+                "name": "Zügel des Bundes",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 500,
+        "basePrice": 4000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Rotom Catalog",
+                "language_ID": "en"
+            },
+            {
+                "name": "Rotom-Katalog",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 500,
+        "basePrice": 4000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Potion",
+                "language_ID": "en"
+            },
+            {
+                "name": "Trank",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 50,
+        "basePrice": 130,
+        "discountRate": 0.7,
+        "minQuantity": 50,
+        "maxQuantity": 100,
+        "regularPrice": 200
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Fresh Water",
+                "language_ID": "en"
+            },
+            {
+                "name": "Tafelwasser",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 50,
+        "basePrice": 130,
+        "discountRate": 1.0,
+        "minQuantity": 20,
+        "maxQuantity": 50,
+        "regularPrice": 200
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Soda Pop",
+                "language_ID": "en"
+            },
+            {
+                "name": "Sprudel",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 150,
+        "basePrice": 250,
+        "discountRate": 1.0,
+        "minQuantity": 10,
+        "maxQuantity": 50,
+        "regularPrice": 300
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Super Potion",
+                "language_ID": "en"
+            },
+            {
+                "name": "Supertrank",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 200,
+        "basePrice": 500,
+        "discountRate": 1.0,
+        "minQuantity": 10,
+        "maxQuantity": 50,
+        "regularPrice": 700
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Lemonade",
+                "language_ID": "en"
+            },
+            {
+                "name": "Limonade",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 150,
+        "basePrice": 250,
+        "discountRate": 1.0,
+        "minQuantity": 10,
+        "maxQuantity": 50,
+        "regularPrice": 400
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Moomoo Milk",
+                "language_ID": "en"
+            },
+            {
+                "name": "Kuhmuh-Milch",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 150,
+        "basePrice": 300,
+        "discountRate": 1.0,
+        "minQuantity": 10,
+        "maxQuantity": 50,
+        "regularPrice": 600
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Hyper Potion",
+                "language_ID": "en"
+            },
+            {
+                "name": "Hypertrank",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 800,
+        "basePrice": 1000,
+        "discountRate": 1.0,
+        "minQuantity": 10,
+        "maxQuantity": 50,
+        "regularPrice": 1500
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Poke Ball",
+                "language_ID": "en"
+            },
+            {
+                "name": "Pokéball",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 50,
+        "basePrice": 130,
+        "discountRate": 0.7,
+        "minQuantity": 50,
+        "maxQuantity": 100,
+        "regularPrice": 1500
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Great Ball",
+                "language_ID": "en"
+            },
+            {
+                "name": "Superball",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 200,
+        "basePrice": 350,
+        "discountRate": 0.7,
+        "minQuantity": 10,
+        "maxQuantity": 50,
+        "regularPrice": 600
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Ultra Ball",
+                "language_ID": "en"
+            },
+            {
+                "name": "Hyperball",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 400,
+        "basePrice": 600,
+        "discountRate": 1.0,
+        "minQuantity": 10,
+        "maxQuantity": 30,
+        "regularPrice": 800
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Premier Ball",
+                "language_ID": "en"
+            },
+            {
+                "name": "Premierball",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 50,
+        "basePrice": 130,
+        "discountRate": 0.5,
+        "minQuantity": 50,
+        "maxQuantity": 100,
+        "regularPrice": 800
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Heal Ball",
+                "language_ID": "en"
+            },
+            {
+                "name": "Heilball",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 100,
+        "basePrice": 200,
+        "discountRate": 1.0,
+        "minQuantity": 3,
+        "maxQuantity": 50,
+        "regularPrice": 300
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Net Ball",
+                "language_ID": "en"
+            },
+            {
+                "name": "Netzball",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 300,
+        "basePrice": 1000,
+        "discountRate": 1.0,
+        "minQuantity": 3,
+        "maxQuantity": 20,
+        "regularPrice": 1000
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Nest Ball",
+                "language_ID": "en"
+            },
+            {
+                "name": "Nestball",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 300,
+        "basePrice": 1000,
+        "discountRate": 1.0,
+        "minQuantity": 3,
+        "maxQuantity": 20,
+        "regularPrice": 1000
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Repeat Ball",
+                "language_ID": "en"
+            },
+            {
+                "name": "Wiederball",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 300,
+        "basePrice": 1000,
+        "discountRate": 1.0,
+        "minQuantity": 3,
+        "maxQuantity": 20,
+        "regularPrice": 1000
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Dive Ball",
+                "language_ID": "en"
+            },
+            {
+                "name": "Tauchball",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 300,
+        "basePrice": 1000,
+        "discountRate": 1.0,
+        "minQuantity": 3,
+        "maxQuantity": 20,
+        "regularPrice": 1000
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Luxury Ball",
+                "language_ID": "en"
+            },
+            {
+                "name": "Luxusball",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 900,
+        "basePrice": 1000,
+        "discountRate": 1.0,
+        "minQuantity": 3,
+        "maxQuantity": 20,
+        "regularPrice": 3000
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Quick Ball",
+                "language_ID": "en"
+            },
+            {
+                "name": "Flottball",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 300,
+        "basePrice": 1000,
+        "discountRate": 1.0,
+        "minQuantity": 3,
+        "maxQuantity": 20,
+        "regularPrice": 1000
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Dusk Ball",
+                "language_ID": "en"
+            },
+            {
+                "name": "Finsterball",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 300,
+        "basePrice": 1000,
+        "discountRate": 1.0,
+        "minQuantity": 3,
+        "maxQuantity": 20,
+        "regularPrice": 1000
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Timer Ball",
+                "language_ID": "en"
+            },
+            {
+                "name": "Timerball",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 300,
+        "basePrice": 1000,
+        "discountRate": 1.0,
+        "minQuantity": 3,
+        "maxQuantity": 20,
+        "regularPrice": 1000
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Fried Fillet",
+                "language_ID": "en"
+            },
+            {
+                "name": "Frittierfilet",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 200,
+        "basePrice": 360,
+        "discountRate": 0.5,
+        "minQuantity": 20,
+        "maxQuantity": 50,
+        "regularPrice": 360
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Herbed Sausage",
+                "language_ID": "en"
+            },
+            {
+                "name": "Kräuterwurst",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 200,
+        "basePrice": 400,
+        "discountRate": 0.5,
+        "minQuantity": 20,
+        "maxQuantity": 50,
+        "regularPrice": 400
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Horseradish",
+                "language_ID": "en"
+            },
+            {
+                "name": "Meerrettich",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 200,
+        "basePrice": 450,
+        "discountRate": 0.5,
+        "minQuantity": 20,
+        "maxQuantity": 50,
+        "regularPrice": 410
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Curry Powder",
+                "language_ID": "en"
+            },
+            {
+                "name": "Currypulver",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 200,
+        "basePrice": 450,
+        "discountRate": 0.5,
+        "minQuantity": 20,
+        "maxQuantity": 50,
+        "regularPrice": 450
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Klawf Stick",
+                "language_ID": "en"
+            },
+            {
+                "name": "Klibbe-Stick",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 300,
+        "basePrice": 500,
+        "discountRate": 0.5,
+        "minQuantity": 20,
+        "maxQuantity": 50,
+        "regularPrice": 500
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Health Feather",
+                "language_ID": "en"
+            },
+            {
+                "name": "Heilfeder",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 200,
+        "basePrice": 500,
+        "discountRate": 0.5,
+        "minQuantity": 10,
+        "maxQuantity": 50,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Muscle Feather",
+                "language_ID": "en"
+            },
+            {
+                "name": "Kraftfeder",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 200,
+        "basePrice": 500,
+        "discountRate": 0.5,
+        "minQuantity": 10,
+        "maxQuantity": 50,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Resist Feather",
+                "language_ID": "en"
+            },
+            {
+                "name": "Abwehrfeder",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 200,
+        "basePrice": 500,
+        "discountRate": 0.5,
+        "minQuantity": 10,
+        "maxQuantity": 50,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Genius Feather",
+                "language_ID": "en"
+            },
+            {
+                "name": "Geniefeder",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 200,
+        "basePrice": 500,
+        "discountRate": 0.5,
+        "minQuantity": 10,
+        "maxQuantity": 50,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Clever Feather",
+                "language_ID": "en"
+            },
+            {
+                "name": "Espritfeder",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 200,
+        "basePrice": 500,
+        "discountRate": 0.5,
+        "minQuantity": 10,
+        "maxQuantity": 50,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Swift Feather",
+                "language_ID": "en"
+            },
+            {
+                "name": "Flinkfeder",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 200,
+        "basePrice": 500,
+        "discountRate": 0.5,
+        "minQuantity": 10,
+        "maxQuantity": 50,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Pomeg Berry",
+                "language_ID": "en"
+            },
+            {
+                "name": "Granabeere",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 100,
+        "basePrice": 300,
+        "discountRate": 0.5,
+        "minQuantity": 10,
+        "maxQuantity": 100,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Kelpsy Berry",
+                "language_ID": "en"
+            },
+            {
+                "name": "Setangbeere",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 100,
+        "basePrice": 300,
+        "discountRate": 0.5,
+        "minQuantity": 10,
+        "maxQuantity": 100,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Hondew Berry",
+                "language_ID": "en"
+            },
+            {
+                "name": "Honmelbeere",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 100,
+        "basePrice": 300,
+        "discountRate": 0.5,
+        "minQuantity": 10,
+        "maxQuantity": 100,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Grepa Berry",
+                "language_ID": "en"
+            },
+            {
+                "name": "Labrusbeere",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 100,
+        "basePrice": 300,
+        "discountRate": 0.5,
+        "minQuantity": 10,
+        "maxQuantity": 100,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Qualot Berry",
+                "language_ID": "en"
+            },
+            {
+                "name": "Qualotbeere",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 100,
+        "basePrice": 300,
+        "discountRate": 0.5,
+        "minQuantity": 10,
+        "maxQuantity": 100,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Tamato Berry",
+                "language_ID": "en"
+            },
+            {
+                "name": "Tamotbeere",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 100,
+        "basePrice": 300,
+        "discountRate": 0.5,
+        "minQuantity": 10,
+        "maxQuantity": 100,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "HP Up",
+                "language_ID": "en"
+            },
+            {
+                "name": "KP-Plus",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 5000,
+        "basePrice": 10000,
+        "discountRate": 1.0,
+        "minQuantity": 3,
+        "maxQuantity": 30,
+        "regularPrice": 10000
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Protein",
+                "language_ID": "en"
+            },
+            {
+                "name": "Protein",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 5000,
+        "basePrice": 10000,
+        "discountRate": 1.0,
+        "minQuantity": 3,
+        "maxQuantity": 30,
+        "regularPrice": 10000
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Iron",
+                "language_ID": "en"
+            },
+            {
+                "name": "Eisen",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 5000,
+        "basePrice": 10000,
+        "discountRate": 1.0,
+        "minQuantity": 3,
+        "maxQuantity": 30,
+        "regularPrice": 10000
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Carbos",
+                "language_ID": "en"
+            },
+            {
+                "name": "Carbon",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 5000,
+        "basePrice": 10000,
+        "discountRate": 1.0,
+        "minQuantity": 3,
+        "maxQuantity": 30,
+        "regularPrice": 10000
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Calcium",
+                "language_ID": "en"
+            },
+            {
+                "name": "Kalzium",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 5000,
+        "basePrice": 10000,
+        "discountRate": 1.0,
+        "minQuantity": 3,
+        "maxQuantity": 30,
+        "regularPrice": 10000
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Zinc",
+                "language_ID": "en"
+            },
+            {
+                "name": "Zink",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 5000,
+        "basePrice": 10000,
+        "discountRate": 1.0,
+        "minQuantity": 3,
+        "maxQuantity": 30,
+        "regularPrice": 10000
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "PP Up",
+                "language_ID": "en"
+            },
+            {
+                "name": "AP-Plus",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 3000,
+        "basePrice": 10000,
+        "discountRate": 0.5,
+        "minQuantity": 3,
+        "maxQuantity": 20,
+        "regularPrice": 10000
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "PP Max",
+                "language_ID": "en"
+            },
+            {
+                "name": "AP-Top",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 10000,
+        "basePrice": 30000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 3,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Sun Stone",
+                "language_ID": "en"
+            },
+            {
+                "name": "Sonnenstein",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 1500,
+        "basePrice": 3000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Moon Stone",
+                "language_ID": "en"
+            },
+            {
+                "name": "Mondstein",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 1500,
+        "basePrice": 3000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Shiny Stone",
+                "language_ID": "en"
+            },
+            {
+                "name": "Leuchtstein",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 1500,
+        "basePrice": 3000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Dusk Stone",
+                "language_ID": "en"
+            },
+            {
+                "name": "Finsterstein",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 1500,
+        "basePrice": 3000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Dawn Stone",
+                "language_ID": "en"
+            },
+            {
+                "name": "Funkelstein",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 1500,
+        "basePrice": 3000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "King's Rock",
+                "language_ID": "en"
+            },
+            {
+                "name": "King-Stein",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 3000,
+        "basePrice": 10000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Metal Coat",
+                "language_ID": "en"
+            },
+            {
+                "name": "Metallmantel",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 1000,
+        "basePrice": 3000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": 3000
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Razor Claw",
+                "language_ID": "en"
+            },
+            {
+                "name": "Scharfklaue",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 5000,
+        "basePrice": 15000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": 15000
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Cracked Pot",
+                "language_ID": "en"
+            },
+            {
+                "name": "Rissige Kanne",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 3000,
+        "basePrice": 10000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Chipped Pot",
+                "language_ID": "en"
+            },
+            {
+                "name": "Löchrige Kanne",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 3000,
+        "basePrice": 10000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Bottle Cap",
+                "language_ID": "en"
+            },
+            {
+                "name": "Silberkronkorken",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 10000,
+        "basePrice": 30000,
+        "discountRate": 0.0,
+        "minQuantity": 3,
+        "maxQuantity": 10,
+        "regularPrice": 20000
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Gold Bottle Cap",
+                "language_ID": "en"
+            },
+            {
+                "name": "Goldkronkorken",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 50000,
+        "basePrice": 150000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 3,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Fast Ball",
+                "language_ID": "en"
+            },
+            {
+                "name": "Turboball",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 10000,
+        "basePrice": 200000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Level Ball",
+                "language_ID": "en"
+            },
+            {
+                "name": "Levelball",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 10000,
+        "basePrice": 200000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Lure Ball",
+                "language_ID": "en"
+            },
+            {
+                "name": "Köderball",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 10000,
+        "basePrice": 200000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Heavy Ball",
+                "language_ID": "en"
+            },
+            {
+                "name": "Schwerball",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 10000,
+        "basePrice": 200000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Love Ball",
+                "language_ID": "en"
+            },
+            {
+                "name": "Sympaball",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 10000,
+        "basePrice": 200000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Friend Ball",
+                "language_ID": "en"
+            },
+            {
+                "name": "Freundesball",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 10000,
+        "basePrice": 200000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Moon Ball",
+                "language_ID": "en"
+            },
+            {
+                "name": "Mondball",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 10000,
+        "basePrice": 200000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    },
+    {
+        "localizedNames":[
+            {
+                "name": "Dream Ball",
+                "language_ID": "en"
+            },
+            {
+                "name": "Traumball",
+                "language_ID": "de"
+            }
+        ],
+        "minPrice": 10000,
+        "basePrice": 200000,
+        "discountRate": 0.0,
+        "minQuantity": 1,
+        "maxQuantity": 1,
+        "regularPrice": -1
+    }
+    ]
+}

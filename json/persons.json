@@ -1,0 +1,140 @@
+{
+    "person":[
+    {
+        "localizedDescriptions":[
+            {
+                "description": "Small boy with brown hair, light green shirt with darker green sleeves, light colored pants.",
+                "language_ID": "en"
+            },
+            {
+                "description": "Kleiner Junge mit braunen Haaren, hellgrünes Hemd mit dunkleren grünen Ärmeln, helle Hose.",
+                "language_ID": "de"
+            }
+        ],
+        "lovedItem": "Moomoo Milk",
+        "budgetRate": 1,
+        "lovedBudgetRate": 1.3,
+        "minimumBid": 500,
+        "maximumBid": 500
+    },
+    {
+        "localizedDescriptions":[
+            {
+                "description": "Small girl with brown hair, pink and yellow striped shirt, blue shorts.",
+                "language_ID": "en"
+            },
+            {
+                "description": "Kleines Mädchen mit braunen Haaren, rosa und gelb gestreiftes Hemd, blaue Shorts.",
+                "language_ID": "de"
+            }
+        ],
+        "lovedItem": "Lemonade",
+        "budgetRate": 1,
+        "lovedBudgetRate": 1.3,
+        "minimumBid": 500,
+        "maximumBid": 500
+    },
+    {
+        "localizedDescriptions":[
+            {
+                "description": "Brown-haired man wearing glasses with light green shirt, jeans, and sandals.",
+                "language_ID": "en"
+            },
+            {
+                "description": "Braunhaariger Mann mit Brille, hellgrünem Hemd, Jeans und Sandalen.",
+                "language_ID": "de"
+            }
+        ],
+        "lovedItem": "King's Rock",
+        "budgetRate": 1.1,
+        "lovedBudgetRate": 1.5,
+        "minimumBid": 500,
+        "maximumBid": 1500
+    },
+    {
+        "localizedDescriptions":[
+            {
+                "description": "Black-haired woman with ponytail, white top, and orange flower-print skirt.",
+                "language_ID": "en"
+            },
+            {
+                "description": "Schwarzhaarige Frau mit Pferdeschwanz, weißem Oberteil und orangefarbenem Rock mit Blumenmuster.",
+                "language_ID": "de"
+            }
+        ],
+        "lovedItem": "Metal Coat",
+        "budgetRate": 1.1,
+        "lovedBudgetRate": 1.5,
+        "minimumBid": 500,
+        "maximumBid": 1500
+    },
+    {
+        "localizedDescriptions":[
+            {
+                "description": "Burly man with short brown hair, pink shirt, and white pants.",
+                "language_ID": "en"
+            },
+            {
+                "description": "Kräftiger Mann mit kurzen braunen Haaren, rosa Hemd und weißer Hose.",
+                "language_ID": "de"
+            }
+        ],
+        "lovedItem": "Bottle Cap",
+        "budgetRate": 1.2,
+        "lovedBudgetRate": 1.6,
+        "minimumBid": 500,
+        "maximumBid": 1500
+    },
+    {
+        "localizedDescriptions":[
+            {
+                "description": "Woman with gray hair, glasses on forehead, blue top, orange pants.",
+                "language_ID": "en"
+            },
+            {
+                "description": "Frau mit grauem Haar, Brille auf der Stirn, blaues Oberteil, orangefarbene Hose.",
+                "language_ID": "de"
+            }
+        ],
+        "lovedItem": "Gold Bottle Cap",
+        "budgetRate": 1.2,
+        "lovedBudgetRate": 1.6,
+        "minimumBid": 500,
+        "maximumBid": 1500
+    },
+    {
+        "localizedDescriptions":[
+            {
+                "description": "Older man with a mustache, pink shirt with darker pink square outlines, white pants, brown loafers.",
+                "language_ID": "en"
+            },
+            {
+                "description": "Älterer Mann mit Schnurrbart, rosafarbenes Hemd mit dunkleren rosafarbenen quadratischen Umrissen, weiße Hose, braune Slipper..",
+                "language_ID": "de"
+            }
+        ],
+        "lovedItem": "Dream Ball",
+        "budgetRate": 1.8,
+        "lovedBudgetRate": 2.0,
+        "minimumBid": 1500,
+        "maximumBid": 2000
+    },
+    {
+        "localizedDescriptions":[
+            {
+                "description": "Older woman with puffy gray hair, light blue top with pink border, and blue pants.",
+                "language_ID": "en"
+            },
+            {
+                "description": "Ältere Frau mit bauschigem grauem Haar, hellblauem Oberteil mit rosa Rand und blauer Hose.",
+                "language_ID": "de"
+            }
+        ],
+        "lovedItem": "Dream Ball",
+        "budgetRate": 1.8,
+        "lovedBudgetRate": 2.0,
+        "minimumBid": 1500,
+        "maximumBid": 2000
+    },
+    ]
+}

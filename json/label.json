@@ -1,0 +1,199 @@
+{
+    "label":[
+    {
+        "name":"item",
+        "translatedTexts":[
+            {
+                "text": "Item",
+                "language_ID": "en"
+            },
+            {
+                "text": "Gegenstand",
+                "language_ID": "de"
+            }
+        ]
+    },
+    {
+        "name":"quantity",
+        "translatedTexts":[
+            {
+                "text": "Quantity",
+                "language_ID": "en"
+            },
+            {
+                "text": "Anzahl",
+                "language_ID": "de"
+            }
+        ]
+    },
+	{
+        "name":"language",
+        "translatedTexts":[
+            {
+                "text": "Language",
+                "language_ID": "en"
+            },
+            {
+                "text": "Sprache",
+                "language_ID": "de"
+            }
+        ]
+    },
+	{
+        "name":"bidder",
+        "translatedTexts":[
+            {
+                "text": "Bidder",
+                "language_ID": "en"
+            },
+            {
+                "text": "Mitbieter",
+                "language_ID": "de"
+            }
+        ]
+    },
+	{
+        "name":"startingBid",
+        "translatedTexts":[
+            {
+                "text": "Starting bid",
+                "language_ID": "en"
+            },
+            {
+                "text": "Startgebot",
+                "language_ID": "de"
+            }
+        ]
+    },
+	{
+        "name":"optimalBid",
+        "translatedTexts":[
+            {
+                "text": "Optimal last bid",
+                "language_ID": "en"
+            },
+            {
+                "text": "Optimales letztes Gebot",
+                "language_ID": "de"
+            }
+        ]
+    },
+	{
+        "name":"personInfoBids",
+        "translatedTexts":[
+            {
+                "text": "Possible bids between",
+                "language_ID": "en"
+            },
+            {
+                "text": "Mögliche Gebote zwischen",
+                "language_ID": "de"
+            }
+        ]
+    },
+	{
+        "name":"item",
+        "translatedTexts":[
+            {
+                "text": "Item",
+                "language_ID": "en"
+            },
+            {
+                "text": "Gegenstand",
+                "language_ID": "de"
+            }
+        ]
+    },
+	{
+        "name":"personInfoMax",
+        "translatedTexts":[
+            {
+                "text": "Highest bid",
+                "language_ID": "en"
+            },
+            {
+                "text": "Höchstes Gebot",
+                "language_ID": "de"
+            }
+        ]
+    },
+	{
+        "name":"pricePerItem",
+        "translatedTexts":[
+            {
+                "text": "Price per item",
+                "language_ID": "en"
+            },
+            {
+                "text": "Preis pro Item",
+                "language_ID": "de"
+            }
+        ]
+    },
+    {
+        "name":"regularPrice",
+        "translatedTexts":[
+            {
+                "text": "Regular price",
+                "language_ID": "en"
+            },
+            {
+                "text": "Regulärer Preis",
+                "language_ID": "de"
+            }
+        ]
+    },
+    {
+        "name":"bestPossiblePrice",
+        "translatedTexts":[
+            {
+                "text": "Best possible price",
+                "language_ID": "en"
+            },
+            {
+                "text": "Bestmöglicher Preis",
+                "language_ID": "de"
+            }
+        ]
+    },
+    {
+        "name":"discount",
+        "translatedTexts":[
+            {
+                "text": "Discount of",
+                "language_ID": "en"
+            },
+            {
+                "text": "Rabatt von",
+                "language_ID": "de"
+            }
+        ]
+    },
+    {
+        "name":"bestPossibleDeal",
+        "translatedTexts":[
+            {
+                "text": "Best possible deal",
+                "language_ID": "en"
+            },
+            {
+                "text": "Bestmöglicher Deal",
+                "language_ID": "de"
+            }
+        ]
+    },
+    {
+        "name":"markup",
+        "translatedTexts":[
+            {
+                "text": "Mark-Up of",
+                "language_ID": "en"
+            },
+            {
+                "text": "Aufschlag von",
+                "language_ID": "de"
+            }
+        ]
+    }
+    ]
+}
