@@ -7,16 +7,16 @@ var languagesList = [];
 // read in all the info
 function ParseJSONs() {
     // Items
-    itemsList = JSON.parse("../json/items.json").item;
+    itemsList = JSON.parse("./json/items.json").item;
 
     // persons
-    personsList = JSON.parse("../json/persons.json").item;
+    personsList = JSON.parse("./json/persons.json").item;
 
     // labels
-    labelsList = JSON.parse("../json/label.json").item;
+    labelsList = JSON.parse("./json/label.json").item;
 
     // Languages
-    languagesList = JSON.parse("../json/languages.json").item;
+    languagesList = JSON.parse("./json/languages.json").item;
 
     // sort languages
     languagesList.sort(function(a,b) {

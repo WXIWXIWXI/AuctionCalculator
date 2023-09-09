@@ -135,6 +135,6 @@
         "lovedBudgetRate": 2.0,
         "minimumBid": 1500,
         "maximumBid": 2000
-    },
+    }
     ]
 }
