@@ -14,24 +14,20 @@ async function getJSON(url) {
 async function ParseJSONs() {
 
     // Items
-    json_items = await getJSON('./json/items.json');
+    var json_items = await getJSON('./json/items.json');
     itemsList = json_items.item;
-    console.log(itemsList);
 
     // persons
-    json_persons = await getJSON('./json/persons.json');
+    var json_persons = await getJSON('./json/persons.json');
     personsList = json_persons.person;
-    console.log(personsList);
 
     // labels
-    json_labels = await getJSON('./json/label.json');
+    var json_labels = await getJSON('./json/label.json');
     labelsList = json_labels.label;
-    console.log(labelsList);
 
     // Languages
-    json_languages = await getJSON('./json/languages.json');
+    var json_languages = await getJSON('./json/languages.json');
     languagesList = json_languages.language;
-    console.log(languagesList);
 
     // sort languages
     languagesList.sort(function(a,b) {
