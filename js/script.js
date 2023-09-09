@@ -1,22 +1,37 @@
 var itemsList = [];
 var personsList = [];
 var labelsList = [];
-var labelIndexList = [];
 var languagesList = [];
 
+// get the jsons
+async function getJSON(url) {
+    return fetch(url)
+        .then((response)=>response.json())
+        .then((responseJson)=>{return responseJson});
+}
+
 // read in all the info
-function ParseJSONs() {
+async function ParseJSONs() {
+
     // Items
-    itemsList = JSON.parse("./json/items.json").item;
+    json_items = await getJSON('./json/items.json');
+    itemsList = json_items.item;
+    console.log(itemsList);
 
     // persons
-    personsList = JSON.parse("./json/persons.json").item;
+    json_persons = await getJSON('./json/persons.json');
+    personsList = json_persons.person;
+    console.log(personsList);
 
     // labels
-    labelsList = JSON.parse("./json/label.json").item;
+    json_labels = await getJSON('./json/label.json');
+    labelsList = json_labels.label;
+    console.log(labelsList);
 
     // Languages
-    languagesList = JSON.parse("./json/languages.json").item;
+    json_languages = await getJSON('./json/languages.json');
+    languagesList = json_languages.language;
+    console.log(languagesList);
 
     // sort languages
     languagesList.sort(function(a,b) {
